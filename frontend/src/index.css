@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  font-family: "Space Grotesk", ui-sans-serif, system-ui;
+  background: radial-gradient(circle at top, rgba(0, 255, 136, 0.08), transparent 55%),
+    radial-gradient(circle at 20% 20%, rgba(78, 168, 255, 0.08), transparent 40%),
+    #0a0e1a;
+  min-height: 100vh;
+}
+
+@layer components {
+  .panel {
+    @apply rounded-2xl border border-white/10 bg-white/5 backdrop-blur-lg shadow-[0_0_30px_rgba(0,0,0,0.35)];
+  }
+
+  .panel-header {
+    @apply flex items-center justify-between border-b border-white/10 px-4 py-3 text-sm uppercase tracking-[0.2em] text-slate-300;
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+  }
+
+  .scrollbar-thumb-slate {
+    scrollbar-color: rgba(148, 163, 184, 0.4) transparent;
+  }
+}

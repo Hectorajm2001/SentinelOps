@@ -1,0 +1,62 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    env_file:
+      - .env
+    environment:
+      PYTHONPATH: /app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - redis
+      - postgres
+      - mock-vllm
+    volumes:
+      - ./backend:/app/backend
+      - ./agents:/app/agents
+      - ./data:/app/data
+      - ./scripts:/app/scripts
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    env_file:
+      - .env
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  postgres:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: sentinel
+      POSTGRES_PASSWORD: sentinel
+      POSTGRES_DB: sentinelops
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  mock-vllm:
+    build:
+      context: .
+      dockerfile: mock_vllm/Dockerfile
+    ports:
+      - "8001:8000"
+
+volumes:
+  postgres_data:

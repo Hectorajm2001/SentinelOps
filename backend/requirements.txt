@@ -1,0 +1,8 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.4
+python-dotenv==1.0.1
+redis==5.0.4
+psycopg[binary]==3.1.18
+crewai==0.70.1
+langchain==0.2.16

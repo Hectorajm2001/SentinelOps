@@ -1,0 +1,100 @@
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:01 WIN-SRV01 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:03 WIN-SRV02 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:05 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:07 WIN-SRV01 Security 4648 A logon was attempted using explicit credentials. Account Name: svc-backup Target Server: WIN-SRV02
+2026-05-05 11:00:09 WIN-SRV02 Security 4672 Special privileges assigned to new logon. Account Name: svc-backup
+2026-05-05 11:00:11 WIN-SRV03 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\wmic.exe
+2026-05-05 11:00:13 WIN-SRV02 Security 4688 A new process has been created. New Process Name: C:\Windows\System32\psexec.exe
+2026-05-05 11:00:15 WIN-SRV01 Security 4634 An account was logged off. Account Name: svc-backup
+2026-05-05 11:00:17 WIN-SRV02 Security 4625 An account failed to log on. Account Name: svc-backup Source Network Address: 10.0.2.15
+2026-05-05 11:00:19 WIN-SRV03 Security 4624 An account was successfully logged on. Account Name: svc-backup Source Network Address: 10.0.2.15
